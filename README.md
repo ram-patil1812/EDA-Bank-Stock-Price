@@ -1,6 +1,6 @@
 # EDA-Bank-Stock-Price
 
-In this project we will focus on EDA (Exploratory data analysis) of stock prices.we will focus on the bank stocks and see how they are progressed throught the financial crisis all the way to early 2016.
+In this project I focus on EDA (Exploratory data analysis) of stock prices.we will focus on the bank stocks and see how they are progressed throught the financial crisis all the way to early 2016.
 
 Get the data-
 we need to get the data using pandas datareader.
